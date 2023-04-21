@@ -1,4 +1,4 @@
-# Sharkwork-
+# Sharkwork
 
 
 This is a data analysis and cleaning project made as part of a Bootcamp, in April 2023.
